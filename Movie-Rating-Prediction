@@ -1,0 +1,28 @@
+# Movie Rating Prediction with Python
+
+CodSoft Data Science Internship - Task 2
+
+## Objective
+Build a machine learning model to predict movie ratings based on features such as genre, director, and actors.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Dataset
+https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
+
+## Model
+Linear Regression
+
+## Features Used
+- Genre
+- Director
+- Actors
+
+## Author
+Anil Chanti
